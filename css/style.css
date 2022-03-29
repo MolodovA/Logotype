@@ -1241,6 +1241,7 @@ body.ie ._ibg img {
 .swiper-container._container {
   padding-top: 125px;
   padding-bottom: 185px;
+  overflow: auto;
 }
 
 .swiper-button-prev::after,
